@@ -1,0 +1,42 @@
+{
+  "records": [
+    {
+      "certificateCode": "MSAL-28A442E0",
+      "studentName": "John Doe",
+      "institution": "Christex Foundation Sierra Leone ",
+      "program": "Blockchain Basics",
+      "issueDate": "2025-12-07",
+      "certificateBase64": null,
+      "blockHash": "89668b01d5a255e03d4986a06b43375d25c9684dd7073ee46da646550dc27feb",
+      "previousHash": "0",
+      "timestamp": "2025-12-07T23:19:41.729Z",
+      "index": 0
+    },
+    {
+      "certificateCode": "MSAL-86B31099",
+      "studentName": "John Mark Fornah",
+      "institution": "Christex Foundation Sierra Leone ",
+      "program": "Blockchain Basics",
+      "issueDate": "2025-12-07",
+      "certificateBase64": null,
+      "blockHash": "5ceddd2157602135279d1bab59a3bd9f6d24a77820818ba9237c08fe02972150",
+      "previousHash": "89668b01d5a255e03d4986a06b43375d25c9684dd7073ee46da646550dc27feb",
+      "timestamp": "2025-12-07T23:20:01.655Z",
+      "index": 1
+    },
+    {
+      "certificateCode": "MSAL-B2E05DFF",
+      "studentName": "John Mark",
+      "institution": "Christex Foundation Sierra Leone",
+      "program": "Blockchain Basics",
+      "issueDate": "2025-12-07",
+      "certificateBase64": null,
+      "blockHash": "899a843bc89e2c83289915679698f22445c16008d99964d879606ab87e4472ce",
+      "previousHash": "5ceddd2157602135279d1bab59a3bd9f6d24a77820818ba9237c08fe02972150",
+      "timestamp": "2025-12-07T23:23:35.591Z",
+      "index": 2
+    }
+  ],
+  "lastUpdated": "2025-12-07T23:23:35.591Z",
+  "totalRecords": 3
+}
